@@ -6,7 +6,7 @@
       <h3>📌 Contact.</h3>
      </summary>
     <br/>
-    <a target="_blank" href="mailto:young.jkdev@gmail.com">
+    <a target="_blank" href="mailto:joo.zero.10@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" />
     </a>&nbsp;
     <a target="_blank" href="https://velog.io/@joo_zero">
