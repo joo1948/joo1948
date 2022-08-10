@@ -16,6 +16,8 @@
 </p>
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joo1948&show_icons=true&theme=buefy)
+
 <h4 align="left">🔭 I’m currently working on ..</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp 
@@ -33,3 +35,4 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white"/></a>&nbsp
 </p>
+
