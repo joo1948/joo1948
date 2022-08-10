@@ -1,7 +1,7 @@
 <h4 align="center"> 👋 안녕하세요. 백앤드 개발자 강주영입니다. 👋 <h4>
 
-<p align="center">
-  <details align="center">
+<p align="left">
+  <details align="left">
     <summary> 
       <h3>📌 Contact.</h3>
      </summary>
@@ -17,6 +17,8 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joo1948&show_icons=true&theme=buefy)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joo1948&layout=compact&theme=buefy)
 
 <h4 align="left">🔭 I’m currently working on ..</h4>
 <p align="left">
