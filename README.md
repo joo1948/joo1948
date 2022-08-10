@@ -12,7 +12,7 @@
     <a target="_blank" href="https://velog.io/@joo_zero">
       <img src="https://img.shields.io/badge/Velog-8BCB98?style=flat-square&logo=vimeo&logoColor=white" />
     </a>&nbsp; 
-    <a target="_blank" href="https://zerodevportfolio.notion.site/6bad37f639914d6d83d76090be173a53">
+    <a target="_self" href="https://zerodevportfolio.notion.site/6bad37f639914d6d83d76090be173a53">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white" />
     </a>&nbsp; 
     
