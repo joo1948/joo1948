@@ -1,11 +1,6 @@
 <h4 align="center"> 👋 안녕하세요. 백앤드 개발자 강주영입니다. 👋 <h4>
 
-<p align="left">
-  <details align="left">
-    <summary> 
-      <h3>📌 Contact.</h3>
-     </summary>
-    <br/>
+<p align="center">
     <a target="_blank" href="mailto:joo.zero.10@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" />
     </a>&nbsp;
@@ -15,14 +10,12 @@
     <a target="_self" href="https://zerodevportfolio.notion.site/6bad37f639914d6d83d76090be173a53">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white" />
     </a>&nbsp; 
-    
-  </details>
 </p>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joo1948&show_icons=true&theme=buefy)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joo1948&layout=compact&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joo1948&layout=compact&theme=buefy)
 
 <h4 align="left">🔭 I’m currently working on ..</h4>
 <p align="left">
