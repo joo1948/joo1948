@@ -32,5 +32,6 @@
 <h4 align="left">📖I’m currently learning ..</h4> 
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/AWS-FAA315?style=flat-square&logo=Amazon AWS&logoColor=black"/>
 </p>
 
